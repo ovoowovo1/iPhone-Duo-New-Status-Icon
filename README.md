@@ -74,4 +74,6 @@ This is a visual web simulation. It does not read live device battery, Wi-Fi, or
 
 ## License
 
-No license has been specified for this project yet.
+This project is released into the public domain under [The Unlicense](./LICENSE).
+
+You are free to use, copy, modify, publish, distribute, sublicense, and sell this project without restriction.
